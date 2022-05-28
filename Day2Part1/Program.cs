@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Collections;
 using System.Linq;
 
-class Day1Part2Solver{
+class Day2Part1Solver{
     public static void Main(string[] args){
 
         int distance = 0, depth = 0;
