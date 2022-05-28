@@ -1,0 +1,15 @@
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/bin/Debug/net6.0/Day1Part1
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/bin/Debug/net6.0/Day1Part1.deps.json
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/bin/Debug/net6.0/Day1Part1.runtimeconfig.json
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/bin/Debug/net6.0/Day1Part1.dll
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/bin/Debug/net6.0/Day1Part1.pdb
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.csproj.AssemblyReference.cache
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.AssemblyInfoInputs.cache
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.AssemblyInfo.cs
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.csproj.CoreCompileInputs.cache
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.dll
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/refint/Day1Part1.dll
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.pdb
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/Day1Part1.genruntimeconfig.cache
+/Users/jeffreydu/Documents/GitHub/AdventOfCode/Day1Part1/obj/Debug/net6.0/ref/Day1Part1.dll
